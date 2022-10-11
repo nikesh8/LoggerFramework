@@ -1,0 +1,29 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)
+// swift-module-flags: -target arm64-apple-ios15.5 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name LoggerFramework
+import Foundation
+@_exported import LoggerFramework
+import Swift
+import _Concurrency
+public class Logger {
+  public init()
+  public func printRandomLogs() -> LoggerFramework.RandoLogs
+  @objc deinit
+}
+public enum RandoLogs : Swift.CaseIterable {
+  case Public
+  case Private
+  case Static
+  case Dynamic
+  public static func == (a: LoggerFramework.RandoLogs, b: LoggerFramework.RandoLogs) -> Swift.Bool
+  public func hash(into hasher: inout Swift.Hasher)
+  public typealias AllCases = [LoggerFramework.RandoLogs]
+  public static var allCases: [LoggerFramework.RandoLogs] {
+    get
+  }
+  public var hashValue: Swift.Int {
+    get
+  }
+}
+extension LoggerFramework.RandoLogs : Swift.Equatable {}
+extension LoggerFramework.RandoLogs : Swift.Hashable {}
