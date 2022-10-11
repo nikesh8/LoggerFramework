@@ -26,7 +26,7 @@
 		</data>
 		<key>Modules/LoggerFramework.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		hcexKQlnDZvEwiKQ/OqZZRhFAGk=
+		pKetoDRNkIVWmoTFP0QlRfuLElQ=
 		</data>
 		<key>Modules/LoggerFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/LoggerFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		neSLiSATKmX9MKTVT29XrnQc5C8=
+		AUTij7Z44n8U16DCIgdvIKIBV1c=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -79,7 +79,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			s5nw6x47tU9YHctYXi+v4L7FQIfzTtt5x3VvdBSG6Rw=
+			pXox0pQkxsBN2AVsGXmD2aStrcpMvbXIT8LZL0EGqDo=
 			</data>
 		</dict>
 		<key>Modules/LoggerFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -100,7 +100,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			vegUDg9XzsO5E2xVFKWygs4cMQeAw+cGEjFX2NtPH9E=
+			NPzHKL6yg53+3DzNzlD4f3U+1T/R1Q+HfPS+WbGq1z8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
